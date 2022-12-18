@@ -1,2 +1,1 @@
 require("theConquerer")
-print("Hello")
